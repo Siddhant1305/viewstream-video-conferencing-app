@@ -1,4 +1,4 @@
-Developing an Integrated Video Meeting Application with Authentication, WebRTC, and Meeting History
+Developed an Integrated Video Meeting Application with Authentication, WebRTC, and Meeting History
 In this project, I developed a fully functional video meeting application, incorporating a range of features to provide users with a seamless and secure experience. The app includes user authentication, real-time video communication, and a meeting history feature, all built using modern technologies like React and Material UI.
 
 URL: https://viewstream-frontend.onrender.com/
