@@ -7,7 +7,7 @@ The View Stream video conferencing app is a full-stack web application that enab
 
 **✨ Features:**
 
-**•	Real-Time Video Calls: **WebRTC-based peer-to-peer video conferencing.
+**•	Real-Time Video Calls:** WebRTC-based peer-to-peer video conferencing.
 
 **•	User Authentication:** Secure login and signup functionality.
 
@@ -29,7 +29,7 @@ The View Stream video conferencing app is a full-stack web application that enab
 
 **•	Real-Time Communication:** WebRTC
 
-**•	Database: **MongoDB
+**•	Database:** MongoDB
 
 **•	Cloud Services:** AWS (EC2, S3, etc.)
 
@@ -41,6 +41,6 @@ The View Stream video conferencing app is a full-stack web application that enab
 
 **•	Recording Option:** Allow users to record and save meetings.
 
-**•	AI Noise Cancellation: **Enhance audio quality by reducing background noise.
+**•	AI Noise Cancellation:** Enhance audio quality by reducing background noise.
 
 **•	Virtual Backgrounds:** Let users blur or change their backgrounds.
