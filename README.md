@@ -36,12 +36,8 @@ The View Stream video conferencing app is a full-stack web application that enab
 
 **🔥 Future Enhancements:**
 
-**•	Screen Sharing:** Enable users to share their screens during meetings.
-
-**•	Chat Feature:** Add real-time messaging alongside video calls.
-
 **•	Recording Option:** Allow users to record and save meetings.
 
 **•	AI Noise Cancellation:** Enhance audio quality by reducing background noise.
 
-**•	Virtual Backgrounds:** Let users blur or change their backgrounds.
+**•	Virtual Backgrounds:** Let users blur or change their backgrounds. and many more.
