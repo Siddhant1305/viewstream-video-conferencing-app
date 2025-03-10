@@ -41,3 +41,8 @@ The View Stream video conferencing app is a full-stack web application that enab
 **•	AI Noise Cancellation:** Enhance audio quality by reducing background noise.
 
 **•	Virtual Backgrounds:** Let users blur or change their backgrounds. and many more.
+
+![viewStream1](https://github.com/user-attachments/assets/cb50fb1f-58ab-4246-b29d-c031669b3b9e)
+![viewStream2](https://github.com/user-attachments/assets/cbfe6adf-5997-4e20-afc6-76461e88099b)
+![viewStream3](https://github.com/user-attachments/assets/39bc2cb4-9475-4a48-b021-111e982f891a)
+
