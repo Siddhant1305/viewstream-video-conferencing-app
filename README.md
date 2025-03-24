@@ -1,12 +1,12 @@
 # **🎥 View Stream - Video Conferencing App**
 
-**🚀 Overview:**
+# **_🚀 Overview:_**
 
 The View Stream video conferencing app is a full-stack web application that enables users to host and join secure video meetings. The platform is built with modern web technologies, ensuring a seamless, real-time video calling experience using WebRTC. It also includes user authentication, a well-structured UI/UX, and meeting history tracking.
 
 **URL:** https://viewstream-frontend.onrender.com/
 
-**✨ Features:**
+# **_✨ Features:_**
 
 **•	Real-Time Video Calls:** WebRTC-based peer-to-peer video conferencing.
 
@@ -22,7 +22,7 @@ The View Stream video conferencing app is a full-stack web application that enab
 
 **•	Cross-Platform Compatibility:** Works on both desktop and mobile browsers.
 
-**🛠️ Tech Stack:**
+# **_🛠️ Tech Stack:_**
 
 **•	Frontend:** React.js, Material UI, HTML, CSS, JavaScript
 
@@ -34,7 +34,7 @@ The View Stream video conferencing app is a full-stack web application that enab
 
 **•	Cloud Services:** AWS (EC2, S3, etc.)
 
-**🔥 Future Enhancements:**
+# **_🔥 Future Enhancements:_**
 
 **•	Recording Option:** Allow users to record and save meetings.
 
